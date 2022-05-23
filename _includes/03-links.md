@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+My GitHub profile page: [samo ucim profile page](https://github.com/samoucim)
+My FB profile.page: [velo.siped](https://facebook.com/velo.siped)
